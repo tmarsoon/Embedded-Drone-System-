@@ -1,0 +1,9 @@
+﻿  Drone.cpp
+  DynamicPathPlanning.cpp
+  EnhancedCommunication.cpp
+  PIDController.cpp
+  PredictiveMaintenance.cpp
+  RTOS.cpp
+  Sensor.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\antho\source\repos\Embedded Drone System2\x64\Release\Embedded Drone System2.exe : fatal error LNK1120: 1 unresolved externals
