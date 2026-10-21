@@ -1,0 +1,22 @@
+{
+  "src/application/BaseNode.java": "106e8212d264bd6cda651775dbcd086bb12f2651cdcaa04aafec9db1a07ea6f0",
+  "src/application/CSVReader.java": "b2a3804f99e80a076e5021e773ed34d24c929ecfd5724960fb988f33880a825b",
+  "src/application/Earth.java": "33c6c504fb25a1c929322cedc944238c6cb0ce2a951643323cc2aaa2c418d6ab",
+  "src/application/EarthScene.java": "36d5cd6f722324b618cf4553a49ed09ecfa42683066e6fa65c77868dd76e20be",
+  "src/application/Galaxy.java": "30a1c15e9cc0067235c7d554e73c86eb48f97113d306a2db75efcfcfadb45fe5",
+  "src/application/Logger.java": "0a2bfbff1fa6fe1c7bec740931fac0fc852fcbb55e06211e7c86e963f8233d3d",
+  "src/application/LogisticsVisualization2.java": "2a2220b97c9f9b89e844c7416badb8aee8276c4846a99cc8aac62dee13fcb8bd",
+  "src/application/Main.java": "0e5fef832fd239af38ba08606a002b9d4c732020d7d05a27036c41e1ca4e03a6",
+  "src/application/SmartGroup.java": "ddfb6b0ad9c05eabd436392cd9d146e1f7b63076fb9f7167519f91cf1f3d1c7b",
+  "src/application/Troop.java": "6d7665616982a77fd889af44cc3f5158d6ce46e33b3cbd8b6efd7543e848e258",
+  "src/application/application.css": "a3b6c4c243330c07570a2188e45773e9307a422d10937f92fffd3f204b2dff6d",
+  "src/application/earth-d.jpg": "f4713bd74ffdac2f9980a67c0485005db2cff07545cdeea0cd2d1dde094ea3f7",
+  "src/application/earth-s.jpg": "62a9a91e215fb62bc9ecc2c988e773ed0ab13cd8d68dc5eab229a9511bbfe565",
+  "src/application/galaxy.jpg": "05c5fbff9dd3ab7007af55b4d3dbb072cf27a5840d61430c68b1a845b1c9d2e5",
+  "src/militarylogistics/CityPlea.java": "de9e90a9ebf6a12d0950a565fe53829475becf09c79fdd8ea23203b6fdc9afdd",
+  "src/militarylogistics/EarthOrbitSimulation.java": "1e25289d53d6aff0b3bfb7475b1b8fdfe27552ae85eaae6c9321c845f4a8c1b3",
+  "src/militarylogistics/KalmanFilter.java": "b669ce67b718981a494bab266a2f3a93ba2ce0f5aac35c75adcd1a1eea55fad0",
+  "src/militarylogistics/TroopDeployment.java": "cf36d44b7a2a6da070a37e0f5fa1eb896d6ada2ac9127438ed679edc8b543b7e",
+  "src/militarylogistics/TroopNodesFly.java": "e64ae38e1f60f56fe29b0d255c77efc2c1786e8c1f1bde4c95bb11fe3497cb30",
+  "src/militarylogistics/TroopResponder.java": "94e27af1f2157dd034b3fd7e6ae284f778a85698941bb77315d98915a11f2c06"
+}
